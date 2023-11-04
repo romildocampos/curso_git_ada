@@ -5,3 +5,5 @@
 ## Gravando mudanças no repositório
 
 ### Gravando mais uma modificação
+
+* Uso do comando restore
